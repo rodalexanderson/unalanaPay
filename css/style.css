@@ -666,4 +666,7 @@ li {
 	.services .card {
 		height: auto;
 	}
+	.home {
+		background-size: auto;
+	}
 }
