@@ -667,6 +667,10 @@ li {
 		height: auto;
 	}
 	.home {
-		background-size: contain;
+		background-image: url(../assets/images/home.jpg);
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
 	}
 }
