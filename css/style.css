@@ -667,6 +667,6 @@ li {
 		height: auto;
 	}
 	.home {
-		background-size: 100%;
+		background-size: contain;
 	}
 }
