@@ -479,8 +479,8 @@ button.swiper-pagination-bullet {
     -webkit-transform-origin: 50%;
     -ms-transform-origin: 50%;
     transform-origin: 50%;
-    -webkit-animation: swiper-preloader-spin 1s steps(12, end) infinite;
-    animation: swiper-preloader-spin 1s steps(12, end) infinite;
+    -webkit-animation: swiper-preloader-spin 1s steps(20, end) infinite;
+    animation: swiper-preloader-spin 1s steps(20, end) infinite;
 }
 .swiper-lazy-preloader:after {
     display: block;

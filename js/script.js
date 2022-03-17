@@ -124,7 +124,7 @@ function topFunction() {
 
 // AOS ANIMATION ON SCROLL
 AOS.init({
-    duration: 1000,
+    duration: 1500,
     easing: "ease",
     once: true, // whether animation should happen only once - while scrolling down
 });
