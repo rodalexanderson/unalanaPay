@@ -667,10 +667,11 @@ li {
 		height: auto;
 	}
 	.home {
-		background-image: url(../assets/images/home.jpg);
+		background-color: #252c38;
+		/* background-image: url(../assets/images/home.jpg);
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
-		background-attachment: fixed;
+		background-attachment: fixed; */
 	}
 }
