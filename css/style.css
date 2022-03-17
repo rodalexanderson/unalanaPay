@@ -646,8 +646,9 @@ li {
 		height: auto;
 	}
 	.home {
-		background-color: #23334e;
+		background-color: #212D37;
 		background-image: none;
+		/* ISSUE WITH IOS/IPHONE RENDERING, ANDROID IS FINE, THAT IS THE REASON BG IMAGE IS NONE */
 		/* background-image: url(../assets/images/home.jpg);
 		background-size: cover;
 		background-position: center;
