@@ -667,7 +667,8 @@ li {
 		height: auto;
 	}
 	.home {
-		background-color: #252c38;
+		background-color: #23334e;
+		background-image: none;
 		/* background-image: url(../assets/images/home.jpg);
 		background-size: cover;
 		background-position: center;
